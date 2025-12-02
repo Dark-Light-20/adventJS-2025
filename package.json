@@ -1,0 +1,26 @@
+{
+  "name": "adventjs-2025",
+  "version": "1.0.0",
+  "description": "This repository contains my solutions to **25** challenges proposed by [Midudev](https://x.com/midudev) on the website [adventJS.dev](https://adventjs.dev). The purpose of the challenges is to improve JavaScript (mainly), TypeScript and Python skills and problem-solving abilities.",
+  "main": "index.js",
+  "scripts": {
+    "1:js": "node solutions/js/01.js",
+    "1:ts": "tsx solutions/ts/01.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dark-Light-20/adventJS-2025.git"
+  },
+  "author": "Dark-Light-20",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dark-Light-20/adventJS-2025/issues"
+  },
+  "homepage": "https://github.com/Dark-Light-20/adventJS-2025#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
