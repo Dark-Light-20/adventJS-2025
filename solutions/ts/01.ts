@@ -16,3 +16,9 @@ const gifts3: string[] = [];
 const good3 = filterGifts(gifts3);
 console.log(good3);
 // []
+
+/* 
+  Score: ★★★★★★★★ (3 bonus stars for solving it today!)
+  Points: 170
+  ops: 1880
+*/

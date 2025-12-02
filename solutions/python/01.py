@@ -16,3 +16,9 @@ gifts3 = []
 good3 = filter_gifts(gifts3)
 print(list(good3))
 # []
+
+"""
+  Score: ★★★★★★★★ (3 bonus stars for solving it today!)
+  Points: 170
+  ops: 1692
+"""
