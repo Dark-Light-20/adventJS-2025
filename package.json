@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "1:js": "node solutions/js/01.js",
-    "1:ts": "tsx solutions/ts/01.ts"
+    "1:ts": "tsx solutions/ts/01.ts",
+    "2:js": "node solutions/js/02.js",
+    "2:ts": "tsx solutions/ts/02.ts"
   },
   "repository": {
     "type": "git",
