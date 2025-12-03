@@ -7,7 +7,9 @@
     "1:js": "node solutions/js/01.js",
     "1:ts": "tsx solutions/ts/01.ts",
     "2:js": "node solutions/js/02.js",
-    "2:ts": "tsx solutions/ts/02.ts"
+    "2:ts": "tsx solutions/ts/02.ts",
+    "3:js": "node solutions/js/03.js",
+    "3:ts": "tsx solutions/ts/03.ts"
   },
   "repository": {
     "type": "git",

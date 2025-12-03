@@ -10,7 +10,7 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 | --------- | ----------------------------- | ---------- | ------------------------------- | --------------------------------- | --------------------------------- | ------------------------------------- |
 | #1        | 🎁 Filter the defective gifts | 🟢 Easy    | [Description](challenges/01.md) | [JS Solution](solutions/js/01.js) | [TS Solution](solutions/ts/01.ts) | [Py Solution](solutions/python/01.py) |
 | #2        | 🏭 Manufacture the toys       | 🟢 Easy    | [Description](challenges/02.md) | [JS Solution](solutions/js/02.js) | [TS Solution](solutions/ts/02.ts) | [Py Solution](solutions/python/02.py) |
-| #3        |                               | ⚪️ Unknow | [Description](challenges/03.md) | [JS Solution](solutions/js/03.js) | [TS Solution](solutions/ts/03.ts) | [Py Solution](solutions/python/03.py) |
+| #3        | 👶 Help the intern            | 🟢 Easy    | [Description](challenges/03.md) | [JS Solution](solutions/js/03.js) | [TS Solution](solutions/ts/03.ts) | [Py Solution](solutions/python/03.py) |
 | #4        |                               | ⚪️ Unknow | [Description](challenges/04.md) | [JS Solution](solutions/js/04.js) | [TS Solution](solutions/ts/04.ts) | [Py Solution](solutions/python/04.py) |
 | #5        |                               | ⚪️ Unknow | [Description](challenges/05.md) | [JS Solution](solutions/js/05.js) | [TS Solution](solutions/ts/05.ts) | [Py Solution](solutions/python/05.py) |
 | #6        |                               | ⚪️ Unknow | [Description](challenges/06.md) | [JS Solution](solutions/js/06.js) | [TS Solution](solutions/ts/06.ts) | [Py Solution](solutions/python/06.py) |
