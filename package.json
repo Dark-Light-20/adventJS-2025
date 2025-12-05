@@ -11,7 +11,9 @@
     "3:js": "node solutions/js/03.js",
     "3:ts": "tsx solutions/ts/03.ts",
     "4:js": "node solutions/js/04.js",
-    "4:ts": "tsx solutions/ts/04.ts"
+    "4:ts": "tsx solutions/ts/04.ts",
+    "5:js": "node solutions/js/05.js",
+    "5:ts": "tsx solutions/ts/05.ts"
   },
   "repository": {
     "type": "git",
