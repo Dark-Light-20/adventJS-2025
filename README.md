@@ -1,4 +1,4 @@
-# adventJS-2024 Challenges Solutions
+# adventJS-2025 Challenges Solutions
 
 ## Description
 
