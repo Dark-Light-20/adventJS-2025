@@ -13,7 +13,7 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 | #3        | 👶 Help the intern            | 🟢 Easy    | [Description](challenges/03.md) | [JS Solution](solutions/js/03.js) | [TS Solution](solutions/ts/03.ts) | [Py Solution](solutions/python/03.py) |
 | #4        | 🧮 Decipher the Santa PIN     | 🟠 Medium  | [Description](challenges/04.md) | [JS Solution](solutions/js/04.js) | [TS Solution](solutions/ts/04.ts) | [Py Solution](solutions/python/04.py) |
 | #5        | ⏱️ The countdown to take off  | 🟢 Easy    | [Description](challenges/05.md) | [JS Solution](solutions/js/05.js) | [TS Solution](solutions/ts/05.ts) | [Py Solution](solutions/python/05.py) |
-| #6        |                               | ⚪️ Unknow | [Description](challenges/06.md) | [JS Solution](solutions/js/06.js) | [TS Solution](solutions/ts/06.ts) | [Py Solution](solutions/python/06.py) |
+| #6        | 🧤 Matching gloves            | 🟢 Easy    | [Description](challenges/06.md) | [JS Solution](solutions/js/06.js) | [TS Solution](solutions/ts/06.ts) | [Py Solution](solutions/python/06.py) |
 | #7        |                               | ⚪️ Unknow | [Description](challenges/07.md) | [JS Solution](solutions/js/07.js) | [TS Solution](solutions/ts/07.ts) | [Py Solution](solutions/python/07.py) |
 | #8        |                               | ⚪️ Unknow | [Description](challenges/08.md) | [JS Solution](solutions/js/08.js) | [TS Solution](solutions/ts/08.ts) | [Py Solution](solutions/python/08.py) |
 | #9        |                               | ⚪️ Unknow | [Description](challenges/09.md) | [JS Solution](solutions/js/09.js) | [TS Solution](solutions/ts/09.ts) | [Py Solution](solutions/python/09.py) |
