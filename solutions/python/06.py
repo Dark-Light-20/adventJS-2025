@@ -45,6 +45,6 @@ print(result_gloves_3)
 
 """
   Score: ★★★★★★★★ (3 bonus stars for solving it today!)
-  Points: 1733
-  ops: 140
+  Points: 140
+  ops: 1733
 """
