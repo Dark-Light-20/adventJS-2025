@@ -21,7 +21,9 @@
     "8:js": "node solutions/js/08.js",
     "8:ts": "tsx solutions/ts/08.ts",
     "9:js": "node solutions/js/09.js",
-    "9:ts": "tsx solutions/ts/09.ts"
+    "9:ts": "tsx solutions/ts/09.ts",
+    "10:js": "node solutions/js/10.js",
+    "10:ts": "tsx solutions/ts/10.ts"
   },
   "repository": {
     "type": "git",
