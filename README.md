@@ -16,7 +16,7 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 | #6        | 🧤 Matching gloves            | 🟢 Easy    | [Description](challenges/06.md) | [JS Solution](solutions/js/06.js) | [TS Solution](solutions/ts/06.ts) | [Py Solution](solutions/python/06.py) |
 | #7        | 🎄 Decorating the tree        | 🟢 Easy    | [Description](challenges/07.md) | [JS Solution](solutions/js/07.js) | [TS Solution](solutions/ts/07.ts) | [Py Solution](solutions/python/07.py) |
 | #8        | 🎁 Find the unique toy        | 🟢 Easy    | [Description](challenges/08.md) | [JS Solution](solutions/js/08.js) | [TS Solution](solutions/ts/08.ts) | [Py Solution](solutions/python/08.py) |
-| #9        |                               | ⚪️ Unknow | [Description](challenges/09.md) | [JS Solution](solutions/js/09.js) | [TS Solution](solutions/ts/09.ts) | [Py Solution](solutions/python/09.py) |
+| #9        | 🦌 The reno robot aspirator   | 🔴 Hard    | [Description](challenges/09.md) | [JS Solution](solutions/js/09.js) | [TS Solution](solutions/ts/09.ts) | [Py Solution](solutions/python/09.py) |
 | #10       |                               | ⚪️ Unknow | [Description](challenges/10.md) | [JS Solution](solutions/js/10.js) | [TS Solution](solutions/ts/10.ts) | [Py Solution](solutions/python/10.py) |
 | #11       |                               | ⚪️ Unknow | [Description](challenges/11.md) | [JS Solution](solutions/js/11.js) | [TS Solution](solutions/ts/11.ts) | [Py Solution](solutions/python/11.py) |
 | #12       |                               | ⚪️ Unknow | [Description](challenges/12.md) | [JS Solution](solutions/js/12.js) | [TS Solution](solutions/ts/12.ts) | [Py Solution](solutions/python/12.py) |
