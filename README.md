@@ -20,7 +20,7 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 | #10       | 📨 Depth of Christmas magic   | 🟢 Easy    | [Description](challenges/10.md) | [JS Solution](solutions/js/10.js) | [TS Solution](solutions/ts/10.ts) | [Py Solution](solutions/python/10.py) |
 | #11       | 📹 Unwatched gifts            | 🟢 Easy    | [Description](challenges/11.md) | [JS Solution](solutions/js/11.js) | [TS Solution](solutions/ts/11.ts) | [Py Solution](solutions/python/11.py) |
 | #12       | ⚔️ Elf battle                 | 🟠 Medium  | [Description](challenges/12.md) | [JS Solution](solutions/js/12.js) | [TS Solution](solutions/ts/12.ts) | [Py Solution](solutions/python/12.py) |
-| #13       |                               | ⚪️ Unknow | [Description](challenges/13.md) | [JS Solution](solutions/js/13.js) | [TS Solution](solutions/ts/13.ts) | [Py Solution](solutions/python/13.py) |
+| #13       | 🏭 The assembly line          | 🟠 Medium  | [Description](challenges/13.md) | [JS Solution](solutions/js/13.js) | [TS Solution](solutions/ts/13.ts) | [Py Solution](solutions/python/13.py) |
 | #14       |                               | ⚪️ Unknow | [Description](challenges/14.md) | [JS Solution](solutions/js/14.js) | [TS Solution](solutions/ts/14.ts) | [Py Solution](solutions/python/14.py) |
 | #15       |                               | ⚪️ Unknow | [Description](challenges/15.md) | [JS Solution](solutions/js/15.js) | [TS Solution](solutions/ts/15.ts) | [Py Solution](solutions/python/15.py) |
 | #16       |                               | ⚪️ Unknow | [Description](challenges/16.md) | [JS Solution](solutions/js/16.js) | [TS Solution](solutions/ts/16.ts) | [Py Solution](solutions/python/16.py) |
