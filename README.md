@@ -37,7 +37,8 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 
 ## Achievements
 
-_Soon._
+![adventJS-2025 Challenges](./challenges.png)
+![adventJS-2025 Achievements](./achievements.png)
 
 ## Installation
 
