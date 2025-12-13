@@ -62,7 +62,7 @@ print(reno7)
 # ➞ 'fail' -> it moves but doesn't pick anything up
 
 """
-  Score: ★★★★★★★ (3 bonus stars for solving it today!)
+  Score: ★★★★★★★★ (3 bonus stars for solving it today!)
   Points: 280
   ops: 3536
 """

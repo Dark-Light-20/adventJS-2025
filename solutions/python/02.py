@@ -33,7 +33,7 @@ print(list(result3))
 # []
 
 """
-  Score: ★★★★★★★ (3 bonus stars for solving it today!)
+  Score: ★★★★★★★★ (3 bonus stars for solving it today!)
   Points: 140
   ops: 1680
 """

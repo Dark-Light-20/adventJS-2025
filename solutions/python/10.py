@@ -43,7 +43,7 @@ depth10 = max_depth("[][][")  # -> -1 (one remains unclosed)
 print(depth10)
 
 """
-  Score: ★★★★★★★ (3 bonus stars for solving it today!)
+  Score: ★★★★★★★★ (3 bonus stars for solving it today!)
   Points: 140
   ops: 2235
 """

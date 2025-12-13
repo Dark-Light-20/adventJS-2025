@@ -38,7 +38,7 @@ print(g4)
 # ""  poor intern…
 
 """
-  Score: ★★★★★★★ (3 bonus stars for solving it today!)
+  Score: ★★★★★★★★ (3 bonus stars for solving it today!)
   Points: 460
   ops: 4713
 """

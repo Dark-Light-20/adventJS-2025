@@ -34,7 +34,7 @@ unsafe4 = find_unsafe_gifts(
 print(unsafe4)
 
 """
-  Score: ★★★★★★★ (3 bonus stars for solving it today!)
+  Score: ★★★★★★★★ (3 bonus stars for solving it today!)
   Points: 80
   ops: 2524
 """

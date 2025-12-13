@@ -47,7 +47,7 @@ print(factory7)
 
 # TODO: Validate
 """
-  Score: ★★★★★★★ (3 bonus stars for solving it today!)
+  Score: ★★★★★★★★ (3 bonus stars for solving it today!)
   Points: 10??? 
   ops: 1???
 """
