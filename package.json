@@ -31,7 +31,9 @@
     "13:js": "node solutions/js/13.js",
     "13:ts": "tsx solutions/ts/13.ts",
     "14:js": "node solutions/js/14.js",
-    "14:ts": "tsx solutions/ts/14.ts"
+    "14:ts": "tsx solutions/ts/14.ts",
+    "15:js": "node solutions/js/15.js",
+    "15:ts": "tsx solutions/ts/15.ts"
   },
   "repository": {
     "type": "git",
