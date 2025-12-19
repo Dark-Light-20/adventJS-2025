@@ -41,7 +41,9 @@
     "18:js": "node solutions/js/18.js",
     "18:ts": "tsx solutions/ts/18.ts",
     "19:js": "node solutions/js/19.js",
-    "19:ts": "tsx solutions/ts/19.ts"
+    "19:ts": "tsx solutions/ts/19.ts",
+    "20:js": "node solutions/js/20.js",
+    "20:ts": "tsx solutions/ts/20.ts"
   },
   "repository": {
     "type": "git",
