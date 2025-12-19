@@ -6,34 +6,34 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 
 ## Challenges list
 
-| Challenge | Title                         | Difficulty | Description                     | JavaScript Solution               | TypeScript Solution               | Python Solution                       |
-| --------- | ----------------------------- | ---------- | ------------------------------- | --------------------------------- | --------------------------------- | ------------------------------------- |
-| #1        | 🎁 Filter the defective gifts | 🟢 Easy    | [Description](challenges/01.md) | [JS Solution](solutions/js/01.js) | [TS Solution](solutions/ts/01.ts) | [Py Solution](solutions/python/01.py) |
-| #2        | 🏭 Manufacture the toys       | 🟢 Easy    | [Description](challenges/02.md) | [JS Solution](solutions/js/02.js) | [TS Solution](solutions/ts/02.ts) | [Py Solution](solutions/python/02.py) |
-| #3        | 👶 Help the intern            | 🟢 Easy    | [Description](challenges/03.md) | [JS Solution](solutions/js/03.js) | [TS Solution](solutions/ts/03.ts) | [Py Solution](solutions/python/03.py) |
-| #4        | 🧮 Decipher the Santa PIN     | 🟠 Medium  | [Description](challenges/04.md) | [JS Solution](solutions/js/04.js) | [TS Solution](solutions/ts/04.ts) | [Py Solution](solutions/python/04.py) |
-| #5        | ⏱️ The countdown to take off  | 🟢 Easy    | [Description](challenges/05.md) | [JS Solution](solutions/js/05.js) | [TS Solution](solutions/ts/05.ts) | [Py Solution](solutions/python/05.py) |
-| #6        | 🧤 Matching gloves            | 🟢 Easy    | [Description](challenges/06.md) | [JS Solution](solutions/js/06.js) | [TS Solution](solutions/ts/06.ts) | [Py Solution](solutions/python/06.py) |
-| #7        | 🎄 Decorating the tree        | 🟢 Easy    | [Description](challenges/07.md) | [JS Solution](solutions/js/07.js) | [TS Solution](solutions/ts/07.ts) | [Py Solution](solutions/python/07.py) |
-| #8        | 🎁 Find the unique toy        | 🟢 Easy    | [Description](challenges/08.md) | [JS Solution](solutions/js/08.js) | [TS Solution](solutions/ts/08.ts) | [Py Solution](solutions/python/08.py) |
-| #9        | 🦌 The reno robot aspirator   | 🔴 Hard    | [Description](challenges/09.md) | [JS Solution](solutions/js/09.js) | [TS Solution](solutions/ts/09.ts) | [Py Solution](solutions/python/09.py) |
-| #10       | 📨 Depth of Christmas magic   | 🟢 Easy    | [Description](challenges/10.md) | [JS Solution](solutions/js/10.js) | [TS Solution](solutions/ts/10.ts) | [Py Solution](solutions/python/10.py) |
-| #11       | 📹 Unwatched gifts            | 🟢 Easy    | [Description](challenges/11.md) | [JS Solution](solutions/js/11.js) | [TS Solution](solutions/ts/11.ts) | [Py Solution](solutions/python/11.py) |
-| #12       | ⚔️ Elf battle                 | 🟠 Medium  | [Description](challenges/12.md) | [JS Solution](solutions/js/12.js) | [TS Solution](solutions/ts/12.ts) | [Py Solution](solutions/python/12.py) |
-| #13       | 🏭 The assembly line          | 🟠 Medium  | [Description](challenges/13.md) | [JS Solution](solutions/js/13.js) | [TS Solution](solutions/ts/13.ts) | [Py Solution](solutions/python/13.py) |
-| #14       | 🗃️ Find the gift path         | 🟢 Easy    | [Description](challenges/14.md) | [JS Solution](solutions/js/14.js) | [TS Solution](solutions/ts/14.ts) | [Py Solution](solutions/python/14.py) |
-| #15       | ✏️ Drawing tables             | 🟠 Medium  | [Description](challenges/15.md) | [JS Solution](solutions/js/15.js) | [TS Solution](solutions/ts/15.ts) | [Py Solution](solutions/python/15.py) |
-| #16       | 🎁 Packing gifts for Santa    | 🟢 Easy    | [Description](challenges/16.md) | [JS Solution](solutions/js/16.js) | [TS Solution](solutions/ts/16.ts) | [Py Solution](solutions/python/16.py) |
-| #17       | 🎄 The Christmas lights panel | 🟢 Easy    | [Description](challenges/17.md) | [JS Solution](solutions/js/17.js) | [TS Solution](solutions/ts/17.ts) | [Py Solution](solutions/python/17.py) |
-| #18       |                               | ⚪️ Unknow | [Description](challenges/18.md) | [JS Solution](solutions/js/18.js) | [TS Solution](solutions/ts/18.ts) | [Py Solution](solutions/python/18.py) |
-| #19       |                               | ⚪️ Unknow | [Description](challenges/19.md) | [JS Solution](solutions/js/19.js) | [TS Solution](solutions/ts/19.ts) | [Py Solution](solutions/python/19.py) |
-| #20       |                               | ⚪️ Unknow | [Description](challenges/20.md) | [JS Solution](solutions/js/20.js) | [TS Solution](solutions/ts/20.ts) | [Py Solution](solutions/python/20.py) |
-| #21       |                               | ⚪️ Unknow | [Description](challenges/21.md) | [JS Solution](solutions/js/21.js) | [TS Solution](solutions/ts/21.ts) | [Py Solution](solutions/python/21.py) |
-| #22       |                               | ⚪️ Unknow | [Description](challenges/22.md) | [JS Solution](solutions/js/22.js) | [TS Solution](solutions/ts/22.ts) | [Py Solution](solutions/python/22.py) |
-| #23       |                               | ⚪️ Unknow | [Description](challenges/23.md) | [JS Solution](solutions/js/23.js) | [TS Solution](solutions/ts/23.ts) | [Py Solution](solutions/python/23.py) |
-| #24       |                               | ⚪️ Unknow | [Description](challenges/24.md) | [JS Solution](solutions/js/24.js) | [TS Solution](solutions/ts/24.ts) | [Py Solution](solutions/python/24.py) |
-| #25       |                               | ⚪️ Unknow | [Description](challenges/25.md) | [JS Solution](solutions/js/25.js) | [TS Solution](solutions/ts/25.ts) | [Py Solution](solutions/python/25.py) |
-| #26       |                               | ⚪️ Unknow | [Description](challenges/26.md) | [JS Solution](solutions/js/26.js) | [TS Solution](solutions/ts/26.ts) | [Py Solution](solutions/python/26.py) |
+| Challenge | Title                            | Difficulty | Description                     | JavaScript Solution               | TypeScript Solution               | Python Solution                       |
+| --------- | -------------------------------- | ---------- | ------------------------------- | --------------------------------- | --------------------------------- | ------------------------------------- |
+| #1        | 🎁 Filter the defective gifts    | 🟢 Easy    | [Description](challenges/01.md) | [JS Solution](solutions/js/01.js) | [TS Solution](solutions/ts/01.ts) | [Py Solution](solutions/python/01.py) |
+| #2        | 🏭 Manufacture the toys          | 🟢 Easy    | [Description](challenges/02.md) | [JS Solution](solutions/js/02.js) | [TS Solution](solutions/ts/02.ts) | [Py Solution](solutions/python/02.py) |
+| #3        | 👶 Help the intern               | 🟢 Easy    | [Description](challenges/03.md) | [JS Solution](solutions/js/03.js) | [TS Solution](solutions/ts/03.ts) | [Py Solution](solutions/python/03.py) |
+| #4        | 🧮 Decipher the Santa PIN        | 🟠 Medium  | [Description](challenges/04.md) | [JS Solution](solutions/js/04.js) | [TS Solution](solutions/ts/04.ts) | [Py Solution](solutions/python/04.py) |
+| #5        | ⏱️ The countdown to take off     | 🟢 Easy    | [Description](challenges/05.md) | [JS Solution](solutions/js/05.js) | [TS Solution](solutions/ts/05.ts) | [Py Solution](solutions/python/05.py) |
+| #6        | 🧤 Matching gloves               | 🟢 Easy    | [Description](challenges/06.md) | [JS Solution](solutions/js/06.js) | [TS Solution](solutions/ts/06.ts) | [Py Solution](solutions/python/06.py) |
+| #7        | 🎄 Decorating the tree           | 🟢 Easy    | [Description](challenges/07.md) | [JS Solution](solutions/js/07.js) | [TS Solution](solutions/ts/07.ts) | [Py Solution](solutions/python/07.py) |
+| #8        | 🎁 Find the unique toy           | 🟢 Easy    | [Description](challenges/08.md) | [JS Solution](solutions/js/08.js) | [TS Solution](solutions/ts/08.ts) | [Py Solution](solutions/python/08.py) |
+| #9        | 🦌 The reno robot aspirator      | 🔴 Hard    | [Description](challenges/09.md) | [JS Solution](solutions/js/09.js) | [TS Solution](solutions/ts/09.ts) | [Py Solution](solutions/python/09.py) |
+| #10       | 📨 Depth of Christmas magic      | 🟢 Easy    | [Description](challenges/10.md) | [JS Solution](solutions/js/10.js) | [TS Solution](solutions/ts/10.ts) | [Py Solution](solutions/python/10.py) |
+| #11       | 📹 Unwatched gifts               | 🟢 Easy    | [Description](challenges/11.md) | [JS Solution](solutions/js/11.js) | [TS Solution](solutions/ts/11.ts) | [Py Solution](solutions/python/11.py) |
+| #12       | ⚔️ Elf battle                    | 🟠 Medium  | [Description](challenges/12.md) | [JS Solution](solutions/js/12.js) | [TS Solution](solutions/ts/12.ts) | [Py Solution](solutions/python/12.py) |
+| #13       | 🏭 The assembly line             | 🟠 Medium  | [Description](challenges/13.md) | [JS Solution](solutions/js/13.js) | [TS Solution](solutions/ts/13.ts) | [Py Solution](solutions/python/13.py) |
+| #14       | 🗃️ Find the gift path            | 🟢 Easy    | [Description](challenges/14.md) | [JS Solution](solutions/js/14.js) | [TS Solution](solutions/ts/14.ts) | [Py Solution](solutions/python/14.py) |
+| #15       | ✏️ Drawing tables                | 🟠 Medium  | [Description](challenges/15.md) | [JS Solution](solutions/js/15.js) | [TS Solution](solutions/ts/15.ts) | [Py Solution](solutions/python/15.py) |
+| #16       | 🎁 Packing gifts for Santa       | 🟢 Easy    | [Description](challenges/16.md) | [JS Solution](solutions/js/16.js) | [TS Solution](solutions/ts/16.ts) | [Py Solution](solutions/python/16.py) |
+| #17       | 🎄 The Christmas lights panel    | 🟢 Easy    | [Description](challenges/17.md) | [JS Solution](solutions/js/17.js) | [TS Solution](solutions/ts/17.ts) | [Py Solution](solutions/python/17.py) |
+| #18       | 🎄 Lights in line with diagonals | 🟠 Medium  | [Description](challenges/18.md) | [JS Solution](solutions/js/18.js) | [TS Solution](solutions/ts/18.ts) | [Py Solution](solutions/python/18.py) |
+| #19       |                                  | ⚪️ Unknow | [Description](challenges/19.md) | [JS Solution](solutions/js/19.js) | [TS Solution](solutions/ts/19.ts) | [Py Solution](solutions/python/19.py) |
+| #20       |                                  | ⚪️ Unknow | [Description](challenges/20.md) | [JS Solution](solutions/js/20.js) | [TS Solution](solutions/ts/20.ts) | [Py Solution](solutions/python/20.py) |
+| #21       |                                  | ⚪️ Unknow | [Description](challenges/21.md) | [JS Solution](solutions/js/21.js) | [TS Solution](solutions/ts/21.ts) | [Py Solution](solutions/python/21.py) |
+| #22       |                                  | ⚪️ Unknow | [Description](challenges/22.md) | [JS Solution](solutions/js/22.js) | [TS Solution](solutions/ts/22.ts) | [Py Solution](solutions/python/22.py) |
+| #23       |                                  | ⚪️ Unknow | [Description](challenges/23.md) | [JS Solution](solutions/js/23.js) | [TS Solution](solutions/ts/23.ts) | [Py Solution](solutions/python/23.py) |
+| #24       |                                  | ⚪️ Unknow | [Description](challenges/24.md) | [JS Solution](solutions/js/24.js) | [TS Solution](solutions/ts/24.ts) | [Py Solution](solutions/python/24.py) |
+| #25       |                                  | ⚪️ Unknow | [Description](challenges/25.md) | [JS Solution](solutions/js/25.js) | [TS Solution](solutions/ts/25.ts) | [Py Solution](solutions/python/25.py) |
+| #26       |                                  | ⚪️ Unknow | [Description](challenges/26.md) | [JS Solution](solutions/js/26.js) | [TS Solution](solutions/ts/26.ts) | [Py Solution](solutions/python/26.py) |
 
 ## Achievements
 
