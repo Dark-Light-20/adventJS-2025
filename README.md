@@ -28,7 +28,7 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 | #18       | 🎄 Lights in line with diagonals | 🟠 Medium  | [Description](challenges/18.md) | [JS Solution](solutions/js/18.js) | [TS Solution](solutions/ts/18.ts) | [Py Solution](solutions/python/18.py) |
 | #19       | 🎄 Santa's Secret Journey        | 🟢 Easy    | [Description](challenges/19.md) | [JS Solution](solutions/js/19.js) | [TS Solution](solutions/ts/19.ts) | [Py Solution](solutions/python/19.py) |
 | #20       | 🎁 Vertical warehouse            | 🟢 Easy    | [Description](challenges/20.md) | [JS Solution](solutions/js/20.js) | [TS Solution](solutions/ts/20.ts) | [Py Solution](solutions/python/20.py) |
-| #21       |                                  | ⚪️ Unknow | [Description](challenges/21.md) | [JS Solution](solutions/js/21.js) | [TS Solution](solutions/ts/21.ts) | [Py Solution](solutions/python/21.py) |
+| #21       | 🤖 The cleaning robot            | 🟠 Medium  | [Description](challenges/21.md) | [JS Solution](solutions/js/21.js) | [TS Solution](solutions/ts/21.ts) | [Py Solution](solutions/python/21.py) |
 | #22       |                                  | ⚪️ Unknow | [Description](challenges/22.md) | [JS Solution](solutions/js/22.js) | [TS Solution](solutions/ts/22.ts) | [Py Solution](solutions/python/22.py) |
 | #23       |                                  | ⚪️ Unknow | [Description](challenges/23.md) | [JS Solution](solutions/js/23.js) | [TS Solution](solutions/ts/23.ts) | [Py Solution](solutions/python/23.py) |
 | #24       |                                  | ⚪️ Unknow | [Description](challenges/24.md) | [JS Solution](solutions/js/24.js) | [TS Solution](solutions/ts/24.ts) | [Py Solution](solutions/python/24.py) |
