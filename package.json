@@ -51,7 +51,9 @@
     "23:js": "node solutions/js/23.js",
     "23:ts": "tsx solutions/ts/23.ts",
     "24:js": "node solutions/js/24.js",
-    "24:ts": "tsx solutions/ts/24.ts"
+    "24:ts": "tsx solutions/ts/24.ts",
+    "25:js": "node solutions/js/25.js",
+    "25:ts": "tsx solutions/ts/25.ts"
   },
   "repository": {
     "type": "git",
